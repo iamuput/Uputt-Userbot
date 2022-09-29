@@ -1,6 +1,7 @@
  <h1 align="center">💥 Uᴘᴜᴛᴛ U𝚂ᴇʀʙᴏᴛ 💥</h1>
 
 <a href="https://github.com/iamuput/Uputt-Userbot/commits"> <img src="https://img.shields.io/github/last-commit/sip-Userbot/Nande-Telethon?color=red&logo=github&logoColor=blue&style=for-the-badge" /></a>
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3bb370170e7147778ce4c76443ae08d6)](https://app.codacy.com/gh/iamuput/Uputt-Userbot?utm_source=github.com&utm_medium=referral&utm_content=iamuput/Uputt-Userbot&utm_campaign=Badge_Grade_Settings)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/iamuput/Uputt-Userbot)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-blue)](https://GitHub.com/iamuput/Uputt-Userbot/graphs/commit-activity)
 [![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/iamuput/Uputt-Userbot/dashboard)
